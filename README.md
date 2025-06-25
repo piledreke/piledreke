@@ -54,3 +54,7 @@ if (you.ask("Стану ли я Большой Шишкой?")) {
     std::cout << "Только после покупки моего [КейГена]!\n";
     system("rm -rf ~/career"); // [[Секрет успеха]]
 }
+
+<div align="center">
+  <img src="./assets/my_spamton.gif" width="500">
+</div>
