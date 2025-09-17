@@ -9,6 +9,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=222)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
@@ -23,11 +24,7 @@
 
 ## 🎓 Образование
 - Центральный университет — Магистратура, «Машинное обучение» (в процессе)
-- НИУ МИЭТ, Москва  
-  Исследования:
-  - Разработка и оптимизация нейросетевых моделей  
-  - Алгоритмы обработки временных рядов  
-  - Прикладное машинное обучение
+- НИУ МИЭТ, Москва
 
 ## 💻 Технические навыки
 - **Языки:** Python, JavaScript, C++, Swift  
@@ -41,11 +38,7 @@
 - Применение ML в инженерных решениях
 
 ## 🧪 Проекты
-- [Название проекта 1](#) — краткое описание проекта и ключевой результат  
-- [Название проекта 2](#) — стек, метрики/эффект  
-- [Название проекта 3](#) — ссылка на репозиторий/демо
-
-> Замените placeholders на ссылки и описания ваших проектов.
+- [tbank-logo-detector](https://github.com/piledreke/tbank-logo-detector) — REST API для детекции логотипа Т‑Банк на изображениях (ONNX). Метрики: Precision 0.946, Recall 0.932, F1 0.939 при IoU=0.5.
 
 ## 📊 GitHub статистика
 <div align="center">
