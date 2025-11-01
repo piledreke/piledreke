@@ -23,7 +23,6 @@
 ## 📊 GitHub статистика
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piledreke&show_icons=true&theme=transparent&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piledreke&layout=compact&theme=transparent)
 
 </div>
