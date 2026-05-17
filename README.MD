@@ -28,6 +28,8 @@
 - 🔍 **[tbank-logo-detector](https://github.com/piledreke/tbank-logo-detector)**  
   REST API для детекции логотипа Т‑Банка на изображениях (ONNX).  
   *Метрики (при IoU=0.5):* `Precision: 0.946` | `Recall: 0.932` | `F1: 0.939`
+- 📈 **[MoexTradingAgent](https://github.com/piledreke/MoexTradingAgent)**  
+  Аналитический агент для MOEX: собирает рыночные данные (collectors), хранит в DuckDB и вычисляет composite scoring/signals, генерирует человекопонятные объяснения через LLM и предоставляет HTTP API на FastAPI. Docker‑готов, включает unit & integration тесты и примеры конфигурации для развёртывания. Технологии: Python, FastAPI, DuckDB, aiohttp, APScheduler, pytest, Docker, LLM.
 
 ## 📊 Статистика
 
