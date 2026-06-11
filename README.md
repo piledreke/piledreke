@@ -51,24 +51,16 @@ collectors → DuckDB → scoring → LLM → FastAPI
 
 ## education
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td valign="middle">
-  <a href="https://cu.ru">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.svg">
-      <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.svg" height="40" alt="Центральный университет" />
-    </picture>
-  </a>
-</td>
-<td width="20"></td>
-<td valign="middle">
+<a href="https://cu.ru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.svg">
+    <img align="left" height="40" src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.svg" alt="Центральный университет" />
+  </picture>
+</a>
 
 Машинное обучение · MSc · в процессе · Москва · [cu.ru](https://cu.ru)
 
-</td>
-</tr>
-</table>
+<br clear="left"/>
 
 ---
 
