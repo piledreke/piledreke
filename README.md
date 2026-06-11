@@ -51,26 +51,16 @@ collectors → DuckDB → scoring → LLM → FastAPI
 
 ## education
 
-<table>
-<tr>
-<td width="240" valign="top">
-  <a href="https://cu.ru">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.svg">
-      <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.svg" height="44" alt="Центральный университет" />
-    </picture>
-  </a>
-</td>
-<td valign="middle">
+### [Центральный университет](https://cu.ru)
 
-**MSc Machine Learning** · в процессе  
-Москва · [cu.ru](https://cu.ru)
+<a href="https://cu.ru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.svg">
+    <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.svg" height="40" alt="Центральный университет" />
+  </picture>
+</a>
 
-Магистратура «Машинное обучение», Центральный университет.
-
-</td>
-</tr>
-</table>
+**MSc Machine Learning** · в процессе · Москва
 
 ---
 
