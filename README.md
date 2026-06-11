@@ -53,10 +53,12 @@ collectors → DuckDB → scoring → LLM → FastAPI
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.png">
-  <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.png" height="52" alt="Центральный университет" />
-</picture>
+<a href="https://cu.ru">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-light.svg">
+    <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-wordmark-dark.svg" height="48" alt="Центральный университет" />
+  </picture>
+</a>
 
 <br/><br/>
 
