@@ -14,20 +14,23 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    timeout-minutes: 5
 
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snake@v4
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: piledreke
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          snake_color: "1f6feb"
-          snake_case: lower
+            dist/github-contribution-grid-snake.svg?color_snake=1f6feb
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=1f6feb
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
