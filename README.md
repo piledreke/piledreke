@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=piledreke&label=Profile%20views&color=1f6feb&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Central_University-ML_MSc-8957e5?style=flat-square" alt="Central University" />
+<a href="https://cu.ru"><img src="https://img.shields.io/badge/Central_University-ML_MSc-8957e5?style=flat-square&logo=https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-logo.png&logoColor=white" alt="Central University" /></a>
 <img src="https://img.shields.io/badge/Moscow-Russia-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHBhdGggZmlsbD0iI0U1MjAyOCIgZD0iTTAgMGgyNHY4SDB6bTAgOGgyNHY4SDB6bTAgOGgyNHY4SDB6Ii8+PC9zdmc+" alt="Moscow" />
 
 </div>
@@ -142,23 +142,65 @@ Collectors  →  DuckDB  →  Scoring  →  LLM explanations  →  FastAPI
 
 ## Education | Образование
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1f6feb,8957e5&height=3&section=header&width=100%" alt="divider" />
+
+<div align="center">
+
 <table>
 <tr>
-<th></th>
-<th>EN</th>
-<th>RU</th>
-</tr>
+<td width="130" align="center" valign="middle">
+  <a href="https://cu.ru">
+    <img src="https://raw.githubusercontent.com/piledreke/piledreke/main/assets/cu-logo.png" width="96" alt="Central University logo" />
+  </a>
+</td>
+<td align="left" valign="middle">
+
+**Central University · Центральный университет**
+
+<table>
 <tr>
-<td>🎓</td>
-<td><b>Central University</b> — MSc Machine Learning <i>(in progress)</i></td>
-<td><b>Центральный университет</b> — магистратура «Машинное обучение» <i>(в процессе)</i></td>
-</tr>
-<tr>
-<td>🏛️</td>
-<td><b>MIET</b>, Moscow</td>
-<td><b>НИУ МИЭТ</b>, Москва</td>
+<td width="50%" valign="top">
+
+**EN** — MSc **Machine Learning** *(in progress)*  
+Modern IT university in Moscow · [cu.ru](https://cu.ru)
+
+</td>
+<td width="50%" valign="top">
+
+**RU** — Магистратура **«Машинное обучение»** *(в процессе)*  
+Современный ИТ-вуз в Москве · [cu.ru](https://cu.ru)
+
+</td>
 </tr>
 </table>
+
+<img src="https://img.shields.io/badge/Program-Machine_Learning-1f6feb?style=flat-square" alt="Program" />
+<img src="https://img.shields.io/badge/Degree-MSc-8957e5?style=flat-square" alt="Degree" />
+<img src="https://img.shields.io/badge/Status-In_Progress-0d1117?style=flat-square" alt="Status" />
+<img src="https://img.shields.io/badge/Campus-Moscow-0d1117?style=flat-square" alt="Campus" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="left" valign="top">
+
+🏛️ **MIET** — Moscow *(previous)*
+
+</td>
+<td width="50%" align="right" valign="top">
+
+🏛️ **НИУ МИЭТ** — Москва *(ранее)*
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
